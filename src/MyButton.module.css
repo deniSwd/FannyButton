@@ -1,0 +1,30 @@
+.block {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+.block button {
+    margin: 0 auto;
+    display: block;
+}
+.num {
+    margin: 20px auto;
+    display: block;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+.num div{
+    text-align: center;
+}
+.string {
+    margin: 20px ;
+    display: block;
+    width: auto;
+    word-break: break-all;
+
+}
